@@ -10,7 +10,7 @@ void loop() {
   a=analogRead(A0);
 //  Serial.print("temperature: ");
 //  Serial.print(temp);
-//  Serial.print("*C");
+//  Serial.print("*C");.octuioyioyuoyuitg
   
   Serial.println(temp);
   delay(20);
